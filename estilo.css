@@ -1,0 +1,17 @@
+style
+{
+    font-family: sans-serif;
+    }
+body {
+    font-family: sans-serif;
+    background-color: antiquewhite;
+  }
+  article {
+    width: 800px;
+    padding: 4rem 6rem;
+    margin: 0 auto;
+    color: antiquewhite;
+    background-color: chocolate;
+    line-height: 1.75;
+  }
+    
